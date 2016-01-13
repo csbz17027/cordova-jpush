@@ -2,7 +2,7 @@ l## cordova-jpush ##
 
     cordova plugin add  https://github.com/csbz17027/cordova-jpush.git --variable API_KEY=your_jpush_appkey
 
-
+本插件根据 jpush-phonegap-plugin 为基础进行修改已符合自身项目更好的使用。
 ### API说明
 
 插件的API集中在JPushPlugin.js文件中,这个文件的位置如下
